@@ -1,0 +1,21 @@
+.profile-card {
+  width: 500px;
+  background-image: url('https://i.pinimg.com/1200x/c0/f0/16/c0f0167a545b3e55eded2d51622b17fa.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 50px;
+}
+
+.profile-card img {
+  width: 100px;
+  height: 100px;
+  /* border: 1px solid white; */
+  border: 1px dashed white;
+  border-radius: 50%;
+  
+}
